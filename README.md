@@ -11,4 +11,5 @@ this is a repo to learn scraping
 * Instalamos jupyter notebook <python3 -m pip install jupyter>
 * Instalamos la libreria requests <pip install requests>
 * Instalamos la libreria beautiful soup <pip install beautifulsoup4>
-
+* Adicionalmente se puede ejecutar jupiter notebooks <jupyter notebook>
+* Instalamos parser notebook <pip install jupyter-notebook-parser>
